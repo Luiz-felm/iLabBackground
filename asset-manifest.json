@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/iLabBackground/static/css/main.ddfef223.css",
+    "main.js": "/iLabBackground/static/js/main.01ac7f5c.js",
+    "static/js/208.354a898a.chunk.js": "/iLabBackground/static/js/208.354a898a.chunk.js",
+    "static/js/293.bfe48e97.chunk.js": "/iLabBackground/static/js/293.bfe48e97.chunk.js",
+    "static/js/917.beffea9a.chunk.js": "/iLabBackground/static/js/917.beffea9a.chunk.js",
+    "static/js/516.a27baf90.chunk.js": "/iLabBackground/static/js/516.a27baf90.chunk.js",
+    "static/js/519.a3fec301.chunk.js": "/iLabBackground/static/js/519.a3fec301.chunk.js",
+    "static/js/946.c661405c.chunk.js": "/iLabBackground/static/js/946.c661405c.chunk.js",
+    "static/js/160.88c6133c.chunk.js": "/iLabBackground/static/js/160.88c6133c.chunk.js",
+    "static/js/23.91d4bb1a.chunk.js": "/iLabBackground/static/js/23.91d4bb1a.chunk.js",
+    "static/js/453.1c18ec8e.chunk.js": "/iLabBackground/static/js/453.1c18ec8e.chunk.js",
+    "index.html": "/iLabBackground/index.html",
+    "main.ddfef223.css.map": "/iLabBackground/static/css/main.ddfef223.css.map",
+    "main.01ac7f5c.js.map": "/iLabBackground/static/js/main.01ac7f5c.js.map",
+    "208.354a898a.chunk.js.map": "/iLabBackground/static/js/208.354a898a.chunk.js.map",
+    "293.bfe48e97.chunk.js.map": "/iLabBackground/static/js/293.bfe48e97.chunk.js.map",
+    "917.beffea9a.chunk.js.map": "/iLabBackground/static/js/917.beffea9a.chunk.js.map",
+    "516.a27baf90.chunk.js.map": "/iLabBackground/static/js/516.a27baf90.chunk.js.map",
+    "519.a3fec301.chunk.js.map": "/iLabBackground/static/js/519.a3fec301.chunk.js.map",
+    "946.c661405c.chunk.js.map": "/iLabBackground/static/js/946.c661405c.chunk.js.map",
+    "160.88c6133c.chunk.js.map": "/iLabBackground/static/js/160.88c6133c.chunk.js.map",
+    "23.91d4bb1a.chunk.js.map": "/iLabBackground/static/js/23.91d4bb1a.chunk.js.map",
+    "453.1c18ec8e.chunk.js.map": "/iLabBackground/static/js/453.1c18ec8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddfef223.css",
+    "static/js/main.01ac7f5c.js"
+  ]
+}
