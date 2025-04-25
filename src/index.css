@@ -1,0 +1,10 @@
+#spline-container,
+#spline-container > div,
+#spline-container > div > div,
+#spline-container canvas {
+  width: 100% !important;
+  height: 100% !important;
+  margin: 0;
+  padding: 0;
+  display: block;
+}

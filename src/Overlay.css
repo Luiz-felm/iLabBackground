@@ -1,0 +1,10 @@
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  border: 70px solid black; /* Black borders */
+  box-sizing: border-box; /* Include border in the element's dimensions */
+  pointer-events: none; /* Allow interaction with the Spline component below */
+}
